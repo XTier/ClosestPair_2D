@@ -1,0 +1,7 @@
+C:\Users\XTier\documents\visual studio 2010\Projects\ClosestPair_2D\ClosestPair_2D\bin\Release\ClosestPair_2D.exe
+C:\Users\XTier\documents\visual studio 2010\Projects\ClosestPair_2D\ClosestPair_2D\bin\Release\ClosestPair_2D.pdb
+C:\Users\XTier\documents\visual studio 2010\Projects\ClosestPair_2D\ClosestPair_2D\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\XTier\documents\visual studio 2010\Projects\ClosestPair_2D\ClosestPair_2D\obj\x86\Release\ClosestPair_2D.exe
+C:\Users\XTier\documents\visual studio 2010\Projects\ClosestPair_2D\ClosestPair_2D\obj\x86\Release\ClosestPair_2D.pdb
+C:\Users\XTier\Documents\Visual Studio 2012\Projects\ClosestPair_2D\ClosestPair_2D\obj\x86\Release\ClosestPair_2D.exe
+C:\Users\XTier\Documents\Visual Studio 2012\Projects\ClosestPair_2D\ClosestPair_2D\obj\x86\Release\ClosestPair_2D.pdb
